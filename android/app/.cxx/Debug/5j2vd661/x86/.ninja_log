@@ -1,0 +1,5 @@
+# ninja log v5
+0	7	0	/home/mobility/new/project/android/app/.cxx/Debug/5j2vd661/x86/CMakeFiles/cmake.verify_globs	e1b82fda8e652070
+0	3111	1730722486099720339	CMakeFiles/appmodules.dir/home/mobility/new/project/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	94f32a0a18dffff2
+1	3536	1730722486523722368	CMakeFiles/appmodules.dir/OnLoad.cpp.o	dc000a84a57b5f20
+3536	3592	1730722486591722694	/home/mobility/new/project/android/app/build/intermediates/cxx/Debug/5j2vd661/obj/x86/libappmodules.so	d178703d2a2bb7b1

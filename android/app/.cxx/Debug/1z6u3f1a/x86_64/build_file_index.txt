@@ -1,0 +1,1 @@
+/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/project/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

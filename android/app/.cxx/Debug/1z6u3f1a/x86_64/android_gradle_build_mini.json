@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/project/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shasishanmugam/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/project/android/app/.cxx/Debug/1z6u3f1a/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shasishanmugam/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/project/android/app/.cxx/Debug/1z6u3f1a/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86_64",
+      "output": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/project/android/app/build/intermediates/cxx/Debug/1z6u3f1a/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/shasishanmugam/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/shasishanmugam/.gradle/caches/8.10.2/transforms/53ca3ec166779873078450fc2e43b919/transformed/react-android-0.76.1-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/shasishanmugam/.gradle/caches/8.10.2/transforms/53ca3ec166779873078450fc2e43b919/transformed/react-android-0.76.1-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    }
+  }
+}
