@@ -1,6 +1,6 @@
 {
-  "root": "/home/mobility/new/project",
-  "reactNativePath": "/home/mobility/new/project/node_modules/react-native",
+  "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native",
+  "reactNativePath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/node_modules/react-native",
   "reactNativeVersion": "0.76",
   "dependencies": {},
   "commands": [
@@ -160,7 +160,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/home/mobility/new/project"
+          "default": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native"
         },
         {
           "name": "--platform <string>",
@@ -212,7 +212,7 @@
         {
           "name": "--terminal <string>",
           "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "xterm-256color"
+          "default": "Apple_Terminal"
         },
         {
           "name": "--binary-path <string>",
@@ -372,7 +372,7 @@
         {
           "name": "--terminal <string>",
           "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "xterm-256color"
+          "default": "Apple_Terminal"
         },
         {
           "name": "--appId <string>",
@@ -447,7 +447,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/home/mobility/new/project/ios",
+      "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/ios",
       "xcodeProject": {
         "name": "project.xcodeproj",
         "path": ".",
@@ -456,7 +456,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/home/mobility/new/project/android",
+      "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/android",
       "appName": "app",
       "packageName": "com.project",
       "applicationId": "com.project",

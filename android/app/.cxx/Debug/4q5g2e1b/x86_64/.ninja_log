@@ -1,0 +1,6 @@
+# ninja log v5
+1	7	0	/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/android/app/.cxx/Debug/4q5g2e1b/x86_64/CMakeFiles/cmake.verify_globs	195b68b648e5aa9f
+0	1280	1730887708061757493	CMakeFiles/appmodules.dir/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	e6354a968f272937
+0	1428	1730887708208975213	CMakeFiles/appmodules.dir/OnLoad.cpp.o	94b3c65e09e5383a
+1428	1474	1730887708256971145	/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/android/app/build/intermediates/cxx/Debug/4q5g2e1b/obj/x86_64/libappmodules.so	c6c883e11c78ae5d
+0	6	0	/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/Redux_React_Native/android/app/.cxx/Debug/4q5g2e1b/x86_64/CMakeFiles/cmake.verify_globs	195b68b648e5aa9f
