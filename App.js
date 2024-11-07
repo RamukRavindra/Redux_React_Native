@@ -1,7 +1,7 @@
 import React from 'react'
 import { Provider } from 'react-redux'
 import { todoStore, store } from './src/redux/store'
-import TodoListScreen from './src/screens/counterScreen/TodoList/TodoListScreen'
+import TodoListScreen from './src/screens/TodoList/TodoListScreen'
 
 const App = () => {
   return (
